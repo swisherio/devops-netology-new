@@ -1,2 +1,2 @@
 # devops-netology
-Tretyakov.Konstantin
+Tretyakov.Konstantind
