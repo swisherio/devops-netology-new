@@ -1,3 +1,2 @@
 # devops-netology-new
-Konstantin
-fix
+Konstantin Tretyakov
